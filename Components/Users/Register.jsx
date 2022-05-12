@@ -1,87 +1,125 @@
-import { StyleSheet, Text, View, TextInput, Button } from "react-native";
+import { TouchableOpacity, KeyboardAvoidingView, StyleSheet, Text, View, TextInput, Image } from "react-native";
 import { React, useState } from "react";
 import { register } from "../../db/auth/auth";
+import Logo from '../../assets/2511582.jpg'
 
-const Register = ({navigation}) => {
+const Register = ({ navigation }) => {
+  const [displayName, setdisplayName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setpassword] = useState("");
   const [error, setError] = useState("");
 
+  const handleRegister = () => {
+    console.log(displayName, email, password);
+    register(email, password)
+      .then()
+      .catch((e) => setError(e.message));
+  }
+
   return (
-    <View>
-      <View style={styles.emailAndPasswordView}>
-        <Text style={styles.emailAndPasswordText}>Email:</Text>
+    <KeyboardAvoidingView style={styles.mainview} >
+      <View style={styles.screen}>
+        <Image source={Logo} style={styles.image} />
+      </View>
+
+      <Text style={styles.text}>Let’s get started!</Text>
+
+      <View style={styles.format}>
         <TextInput
+          style={styles.textinput}
+          onChangeText={setdisplayName}
+          keyboardType="default"
+          placeholder="User Name"
+        />
+        <TextInput
+          style={styles.textinput}
+          placeholder="example@email.com"
           onChangeText={setEmail}
           keyboardType="email-address"
-          textAlign="center"
-          placeholder="Enter your email"
-          style={styles.emailAndPasswordInput}
+
         />
-      </View>
-      <View
-        style={styles.emailAndPasswordView}
-      >
-        <Text style={styles.emailAndPasswordText}>Password:</Text>
+
         <TextInput
+          style={styles.textinput}
           onChangeText={setpassword}
-          keyboardType="visible-password"
-          textAlign="center"
-          placeholder="Enter your password"
           secureTextEntry={true}
-          style={styles.emailAndPasswordInput}
+          placeholder="password"
         />
+
       </View>
-      <View style={styles.RegisterButtonView}>
-        <Button
-          title="Register"
-          onPress={() => {
-            navigation.navigate('Sign in');
-            console.log(email, password);
-            register(email, password)
-              .then()
-              .catch((e) => setError(e.message));
-          }}
-        />
-        <Text>{error}</Text>
+      <View >
+        <TouchableOpacity style={styles.buttonstyle} onPress={handleRegister}>
+          <Text style={styles.buttontext}>Register</Text>
+        </TouchableOpacity>
       </View>
-      <View style={styles.SignInView}>
-        <Text>Already have an account?</Text>
-        <Button title="sign in" onPress={() => { navigation.navigate('Sign in') }} />
+
+      <Text style={styles.errorText}>{error}</Text>
+
+      <Text>Already have an account?</Text>
+
+      <View >
+        <TouchableOpacity style={styles.buttonstyle} onPress={() => { navigation.navigate('SignIn') }}>
+          <Text style={styles.buttontext}>sign in</Text>
+        </TouchableOpacity>
       </View>
-    </View>
+    </KeyboardAvoidingView>
+
+
   );
 };
 
 export default Register;
 
 const styles = StyleSheet.create({
-  emailAndPasswordView: {
-    flexDirection: "row",
-    justifyContent: "space-between",
-    alignItems: "center",
-    padding: 5,
+  mainview: {
+    flex: 1,
+    backgroundColor: "#90EE90",
+    paddingHorizontal: 60,
+    alignSelf: "stretch",
+
   },
-  emailAndPasswordText: {
-    flex: 1
+  screen: {
+    justifyContent: 'center',
+    alignItems: 'center',
+    paddingTop: 40,
+    paddingBottom: 20
   },
-  emailAndPasswordInput: {
-    flex: 2,
-    borderColor: "black",
-    borderRadius: 30,
-    alignItems: "center",
-    justifyContent: "center",
-    backgroundColor: '#c0c0c0',
+  text: {
+    textAlign: 'center',
+    fontWeight: 'bold',
+    fontSize: 25,
+    paddingBottom: 20
+  },
+  textinput: {
     height: 40,
+    color: "#fff",
+    borderBottomColor: "#cae9ff",
+    borderBottomWidth: 4,
+
+  },
+  format: {
+    paddingBottom: 20
+  },
+  image: {
+    width: 100,
+    height: 100,
+    borderRadius: 50
+  },
+  buttonstyle: {
+    backgroundColor: '#022b3a',
+    width: '100%',
+    padding: 15,
+    borderRadius: 10,
+    alignItems: 'center',
+  },
+  buttontext: {
+    color: 'white',
+    fontWeight: '700',
+    fontSize: 16,
   },
   errorText: {
     color: '#f00'
   },
-  RegisterButtonView: {
-    paddingTop: 3,
-    alignItems: 'center',
-  },
-  SignInView: {
-    alignItems: 'center',
-  }
+
+
 });

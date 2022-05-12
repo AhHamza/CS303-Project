@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View, Button } from 'react-native'
+import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
 const Profile = ({ email, navigation }) => {
@@ -23,6 +23,6 @@ const styles = StyleSheet.create({
     },
     fontStyle: {
         fontSize: 20,
-        color: '#fff'
+        color: '#FFF'
     }
 })
