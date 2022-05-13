@@ -77,7 +77,7 @@ const styles = StyleSheet.create({
   },
   input: {
     height:40,
-    color:"#fff",
+    color:'rgb(255, 255, 255)',
     borderBottomColor: "#cae9ff" ,
     borderBottomWidth: 4,
   },
@@ -89,7 +89,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   buttontext: {
-    color: 'white',
+    color: 'rgb(255, 255, 255)',
     fontWeight: '700',
     fontSize: 16,
   },

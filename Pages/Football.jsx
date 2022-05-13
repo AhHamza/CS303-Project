@@ -12,63 +12,63 @@ export default function Football({ navigation }) {
           <View style={styles.itemstyle} onPress={() => { navigation.navigate('Stadium') }}>
             <Image source={Logo} style={styles.image} />
             <View style={styles.cont}>
-            <TouchableOpacity style={styles.buttonstyle} onPress={() => { navigation.navigate('Stadium') }}>
-              <Text style={styles.buttontext}>Price : 20 L.E/hour</Text>
-              <Text style={styles.buttontext}>For more info press here</Text>
-            </TouchableOpacity>
+              <TouchableOpacity style={styles.buttonstyle} onPress={() => { navigation.navigate('Stadium') }}>
+                <Text style={styles.buttontext}>Stadium 1</Text>
+                <Text style={styles.buttontext}>For more info press here</Text>
+              </TouchableOpacity>
             </View>
           </View>
 
           <View style={styles.itemstyle} onPress={() => { navigation.navigate('Stadium') }}>
             <Image source={Logo} style={styles.image} />
             <View style={styles.cont}>
-            <TouchableOpacity style={styles.buttonstyle} onPress={() => { navigation.navigate('Stadium') }}>
-            <Text style={styles.buttontext}>Price : 20 L.E/hour</Text>
-              <Text style={styles.buttontext}>For more info press here</Text>
-            </TouchableOpacity>
+              <TouchableOpacity style={styles.buttonstyle} onPress={() => { navigation.navigate('Stadium') }}>
+                <Text style={styles.buttontext}>Stadium 2</Text>
+                <Text style={styles.buttontext}>For more info press here</Text>
+              </TouchableOpacity>
             </View>
           </View>
 
           <View style={styles.itemstyle} onPress={() => { navigation.navigate('Stadium') }}>
             <Image source={Logo} style={styles.image} />
             <View style={styles.cont}>
-            <TouchableOpacity style={styles.buttonstyle} onPress={() => { navigation.navigate('Stadium') }}>
-            <Text style={styles.buttontext}>Price : 20 L.E/hour</Text>
-              <Text style={styles.buttontext}>For more info press here</Text>
-            </TouchableOpacity>
+              <TouchableOpacity style={styles.buttonstyle} onPress={() => { navigation.navigate('Stadium') }}>
+                <Text style={styles.buttontext}>Stadium 3</Text>
+                <Text style={styles.buttontext}>For more info press here</Text>
+              </TouchableOpacity>
             </View>
           </View>
 
           <View style={styles.itemstyle} onPress={() => { navigation.navigate('Stadium') }}>
             <Image source={Logo} style={styles.image} />
             <View style={styles.cont}>
-            <TouchableOpacity style={styles.buttonstyle} onPress={() => { navigation.navigate('Stadium') }}>
-            <Text style={styles.buttontext}>Price : 20 L.E/hour</Text>
-              <Text style={styles.buttontext}>For more info press here</Text>
-            </TouchableOpacity>
+              <TouchableOpacity style={styles.buttonstyle} onPress={() => { navigation.navigate('Stadium') }}>
+                <Text style={styles.buttontext}>Stadium 4</Text>
+                <Text style={styles.buttontext}>For more info press here</Text>
+              </TouchableOpacity>
             </View>
           </View>
 
           <View style={styles.itemstyle} onPress={() => { navigation.navigate('Stadium') }}>
             <Image source={Logo} style={styles.image} />
             <View style={styles.cont}>
-            <TouchableOpacity style={styles.buttonstyle} onPress={() => { navigation.navigate('Stadium') }}>
-            <Text style={styles.buttontext}>Price : 20 L.E/hour</Text>
-              <Text style={styles.buttontext}>For more info press here</Text>
-            </TouchableOpacity>
+              <TouchableOpacity style={styles.buttonstyle} onPress={() => { navigation.navigate('Stadium') }}>
+                <Text style={styles.buttontext}>Stadium 5</Text>
+                <Text style={styles.buttontext}>For more info press here</Text>
+              </TouchableOpacity>
             </View>
           </View>
 
           <View style={styles.itemstyle} onPress={() => { navigation.navigate('Stadium') }}>
             <Image source={Logo} style={styles.image} />
             <View style={styles.cont}>
-            <TouchableOpacity style={styles.buttonstyle} onPress={() => { navigation.navigate('Stadium') }}>
-            <Text style={styles.buttontext}>Price : 20 L.E/hour</Text>
-              <Text style={styles.buttontext}>For more info press here</Text>
-            </TouchableOpacity>
+              <TouchableOpacity style={styles.buttonstyle} onPress={() => { navigation.navigate('Stadium') }}>
+                <Text style={styles.buttontext}>Stadium 6</Text>
+                <Text style={styles.buttontext}>For more info press here</Text>
+              </TouchableOpacity>
             </View>
           </View>
-          
+
         </View>
       </View>
     </ScrollView>
@@ -79,6 +79,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     justifyContent: 'center',
+    backgroundColor: '#FFF'
   },
   itemstyle: {
     maxWidth: '100%',
@@ -103,7 +104,7 @@ const styles = StyleSheet.create({
     alignItems: 'center'
   },
   buttontext: {
-    color: 'white',
+    color: 'rgb(255, 255, 255)',
     fontWeight: '700',
     fontSize: 16,
     textAlign: 'center',
