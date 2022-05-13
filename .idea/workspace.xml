@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdbc556d-8c5b-4f34-8a7f-6da4dc4eb4a7" name="Changes" comment="&quot;abdelghany's modif. no1&quot;">
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/001ff89b7422af6f8d00125b5b8c53ab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/00bf6662e4b96b493af4885a560649b5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/0154ebaf00114a44c6227511c1bd4362.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/026bfe90d3e7904c6707bb51046ac49d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/02769f3f691a8e7498f3821759187550.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/033c1377e94ab451629f631146a8a5b3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/0495cd6f09be0e55fd74016284dd8968.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/0588474f247245849fb49336ea0dfe8f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/05e6ca1c7b7e3438ed20cc67e87838bb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/063a4aa3ea7763d91275cf52d538f0ae.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/073b83049b9c8208c52913c66b27660c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/08e12bd08ffff9fbd2057b933b8dd0b5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/0964582969eff3147c2e53cd9a77f21c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/09f33eb3659540f876c90cd398b4a135.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/0b3c5ed72a82bf91ccdbf2e881f7cdd6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/0dba1633bff763349685d42555f1f0a6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/0e0152bab7b93902f81993f14ffc7212.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/0e6d5f2d17963a18f476e04201d4160e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/0f7b8b2333c344e48f760a229897eb0d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/10b2159d8107cd9ed61bcda82b051274.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/10b9ef97715a6b475276f239092fe646.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/11af2262b57e58293188ed17f7872aca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/122f52149421c45711eb85ffbc3f58bf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/127fb6df403aec23a67e25d7a804eed1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/1310892348c1c3333419e803f561719b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/1329c34a27aa949dce9e1c69d0db1bc3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/13ccf011259e38984edfbfb06f3e8eb3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/13f3f0741e8883a8cb6e25c27c1c29f0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/14eae911ff488f9d3ecb556abb086271.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/162c04c7e3840b81b77b462358e5e817.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/16e7498b27553094a3af8eee394d9365.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/17a7aaf76db13d7255bdd5ce7cd819a7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/1801f02b1927d90aa8d0348b1c4929a8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/186fd11d9a519f4fb39dca501fbd25ac.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/189952ec55740f499623e04ea06bd96f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/18b13b162125445303e28acb4c4af94f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/19040a095416a86dc68d961b0c9d0f98.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/19d0bb70601b06aedaed1ef05c0fd021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/1afc6e99313a829cff177bfb810164ff.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/1d928b9fbd1e47f285c8b02b27ad5054.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/1eda2de4ecb0907aa13436be18796ac1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/1fcfd3d94ee44b69d9e9031de7c27b1f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/1fed18963573b0909e29d022f5e464f2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/1fef3faaade91027a178648780822d11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/202628b7d72842feee29c89d5a6ccdb0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/2063d6ec7cabf8cbb501aab89e47f3e9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/209a7a0fb73d0fbea924a91dc1d8c247.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/20fe84b3ab5061c50c4370d1206d811b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/21bb06271a2946a3e87ca04b2dabd416.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/220e4920883f0c3e40a345c0446c0ace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/22a7abfdda0a8aec465d107bbc934ffc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/24620db7def6083d9ab2aae422bdeac6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/262e8307a9e098566274285be4ade83c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/26a81510cbf359e4356ecc3b6eabda80.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/27a711fa5941278fefa53633e557b457.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/281d7ce42d6bed189f42d2931926e240.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/286b38f9c9aa719b71826d4505384867.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/28790652c8189ee81e6f97f1e42dd980.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/28916177f1d0dc2fbeb459defd10742c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/28b5edf46d14caefda647fc6a54f99f6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/28ede051424aea62c977ae4176f22391.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/29943eb16902ab476997150720612d4a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/29de049b014e1545c8807e4529c893e0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/29f6171c556d45e894932f74abf134ff.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/2a828e639daf0fa757602da734d0d932.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/2deaf64f0ea72dec8879672f0955fba0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/2dec366d3dceffee0bdd87bfacdbbf34.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/2df54feef6075d2ef2e4a1473753ef98.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/2e3ecf6b7728cb4e802ff73eb281fcc5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/2ffbca725085d39b8d8f509af00baff2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/30415fc135886bd8b3d3caafc6ed0a14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/307d2d3e8a8e584843cec93a64d41d08.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/310ad77bf7bbdaf409b9631c4f711d5a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/3145ab91f43ece405cc2fa8a3c1c05ee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/318bb69cbbee9176aaca99497d158a87.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/3192adf58712647b2484884a79292d3e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/31a74033ba8a01ca624c6e872b18c40c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/31d76ee130566fada452c410043ad286.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/3362f7010732e810338d59e30815709d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/33b433c69250c12822fe9f8165e20beb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/34039516a85ba53335e0cd0f786edce4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/363e13991b7e13961311dc378b678526.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/36ee2eafd9d2bcda9d0b426cfa6495a8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/37f1ce765d4c2da730474cddfb94cfc4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/381a54d276b2a4a2ce380825937b4e29.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/39844a518e6fa726c2e678e79bd627da.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/39a518def443f2eed4dd07f57c8dd64c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/39e3afb75beb84f40f3ae2beda1977e0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/3a9f7c3e9869817594a80259c672c361.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/3b0f8e9c361ce2c476a9551ac9687816.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/3c973794659cc093f006ab7f4b40bb34.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/3e3abb651a736d03a720d62700cdb405.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/3ed507bac623322d63b69bdb7013f68f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/3f04baca41496770f49fc3954053c652.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/3f12a19758fb5f8cd3eccbc6712782f7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/3f269ea44617b00e269c38c36fab135f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/3f9a7e9effaade002673ba2acc686921.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/3fb981d182ea09280521fbcc1ab0c30e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/405d8f2b68d2eac064142bdf852abd52.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/409fffd5f86285571aa1e14bea40737f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/40fe9ccd046093a5b2b875323dbab3f0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/4196646a7cfc10e4c8983c6e981b3022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/4198ded38133658bef2f452f05831a04.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/41f5fa94f786abe5311fcc859f17516f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/41fdbb308919cf77f5dcbde5b7bae1e2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/422aaf1024edad2c30392896e6714372.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/428338c760ce6f3374b8f58e705ec598.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/42f8c49cbf8d54f7f029aa936b218dbb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/432f5a5df99f20ae4c13cde121b483b9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/443953cf4e71926b4235f4de2484c8ab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/44be28becda61a09033de3455d988235.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/44fd79d1738aaa61e9d04e0b23237058.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/4580f822a85f2b343489030826270c1c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/45e1dcd77f0f4ab7d5c436dd350bcbdc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/45e66473653f86fded54e5e89614cb2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/46a651d46038299550956b4c49f33c48.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/473751109affc6646d03ed9e419f521c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/4886f930712a6282e21b43ffcb02988a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/48b1ae9374464650a8e0fc2011bb797c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/4a545450ef75509e74d0bacb927759a2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/4ada6ea750e896e875aa9af0b013eb7f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/4b6e1eee1b8e9677ef7ac957c4687136.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/4b6fa9812a36adc2499778264b11fffa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/4bd960080ed3dd33ebc028de255786bc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/4c09fa5d7dc57d3d2f99d8549105e388.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/4c2421e26ae0007d562668a612f95684.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/4ef077846245f37599a3c5f643013c95.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/4f22d1f6b4e8ce1675138e3f9734bbc7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/4f28c0bb148ed77c814540450f44ea06.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/4f7687d56aab0c538a0cbbed301ad0e3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/50131ae56799cbf8c92d116393096675.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/505d2c788c53444d836dbeb40a3636de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/512cb5955a0cdcd75300732d98d62121.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/522662c401ca5a3d5b80d574eb9f627e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/5235e313774718045085e41440b053c7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/52b276805f8e6d4be3362a4b35baabc9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/52ba6b3588b580e9b424b10b89d46f53.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/52d3e8b456ca430895ce1a09cf57c55c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/52f27b14085025d01e3244c9f948b2eb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/534260d5826444e972c6ea1010b7a5f5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/542f38f5acef94120d149553b5b65720.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/5459b2ded6b46533cb91a80e3accee18.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/54c05664883a5577e8995efe55aa31a1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/5518e81a43f1fa7a66dda9f7e227f4ae.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/573aa0e5beddc5b69b95f7bc4314d1ed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/57e6985b218b3f84e540da5967f3683c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/59cea762364fd342b3ab5e77330b167b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/5ac6b9238a0f30243be6a8f6533ecf69.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/5b7726fdc99444dd767960fd8773eec4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/5c806c1aba6789489b15b890b86215ed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/5c9104f2e0c66e543c89f6d8a23f1c22.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/5cd5903c7089e99dabc8b68931439950.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/5e3870b1891249fdc0ee8f6a6a0d0c20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/5e98983ec3cd895ff614c3ab9f7a9362.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/5f8f9a6c5adad3e227ca485e5071d00f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/5fefa0a64ccd3507a3b3ec7c0aec69fc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/61b0cfcba616825268982569f780a9a5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/62269ba4e9ec0e15fb676353a6bf3875.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/62ce2fcd137a9e2df05a923b28b7d51d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/631c772ed0eeb99c9b05b7034cef0517.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/636b03cb2f7c8c5a4e6fcbd774a9cfb2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/64b1165684b84f334eefaba1141347a5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/64b757027f870bd10f7526546f9c158f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/6548a71664ce49715f55a927464781fe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/6579748ecf4baa614d695bd182e4388e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/65c8cc8397cc7173a15213f2e01e5dc5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/6730a7967d7a5a8c2de2b1c252230408.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/683f94701ac5f2ad84ece1055ff4defd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/684dd6c8639b02344b9a36a125c6cb8b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/68592519612f2adc252d62fadcc8821c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/68cbb3a8b70821ec40402c9ad2d373e6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/68f0a04011089d7320379626f4d8f5b8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/68f0c1fec26aa9261f5369847ddf7bc9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/6a1ea371a8745030dba2704c5a04546f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/6bde5653899107dfea12411e1b1a1a25.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/6e0d8155d56d01618ace81814d0f7128.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/6e1a81889521143ecf1dc6b9f3cc6214.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/6f5110752b491de7649f7556ee0f4cb2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/7059439af08bcf9f5034391c1cdba43d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/70eabdd39d0c2edea525a4e39d12076c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/71910edb2c0798fe71fb29a6c66d81ee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/72f22b8a4071c58599e006fbf6039342.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/738f7ad9118c8e936080063a83ea5721.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/746e2cad593eaa9413c38bbf4521a9ee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/748310b95f7dcaa50ea67b8b77934fa8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/74ff4f38ccf88dc87314fac240fd7f26.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/753f414b05e4811e1ad8347b2d00bc39.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/76907ce7067c1562e7ab15daf48786e1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/7737fdde0bf73919e3ee5204f78f90b8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/776cdff658c90459c30124ca5c852171.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/77af607769289f4d395c3cb508f5c01e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/783036a69910c40bca7237b5a6faef1a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/7881f754fe1439a26b4f08e4e9e6a1e7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/7a9235bd56475003591d4079b0baec02.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/7bcd106fc312114868b52470476eb6d1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/7c3941dddf89712707cd50587f9cd1c7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/7cf71955040fa87f80f306af13d65362.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/7f6384df0b406f57790cbed8cc947e55.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/7fd674c7ee868fc288d49062871fb59c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/805755ebf2af7640edff6e9e414e8ae5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/8057f5cf2ebc9ea46716593273da93d6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/812dffab753ae3c0eefcce28d250030b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/8248e370b4412685843c62f903448ce0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/83c4a9ea7a5120a099527b994b598702.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/84a3f231eacd425714ed03873c5a7cec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/84be8030a1c925cb7d4ede5275db5709.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/857e466c64eca8df94191b40029b70bc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/8698702a37c843ecde5fe07e5107a1ae.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/86c60cde5cb5404d38c61bacc74ea0ef.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/86ccf6316b089aaa2d521fa5a5e43a8a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/881ab3d3aaeb3b4cd78aa6dd83cde392.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/88b97ff61776db64101215af8d8763b7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/8aaae297460675a13822e9683d78b00e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/8aad78207f3b9f43cc736ae4be6e804a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/8af279f5a1f157b596ec5e0f4df19988.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/8b241c4a10ba6435cf7ce3cb56fd86a5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/8b51830f2bf7c54374109cd071b7a12d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/8bcf63e4f44357684c702fcbec6c0cb9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/8d108de2df0d34edfc2a312435f31fab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/8e175b5aa4c4953169ce673a947db1d0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/8eb0d1b74e7f28c383cfaf41fd8a315c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/8f87c545be2f9bc25957ef54e6fd8138.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/8f982c585430bb564ee14e5c61467720.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/8f9e165f962bc74e3bcd600b7b320f31.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/8fe63394a34034b884c29f772fb777bf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/90118adcd0643ab3f3261b4616b0bf02.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/9053075337755d6a0c756731ca7e419e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/91045d27936049698cede9a034d15daf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/91248ab6135a8a8c4fc043749973dbe0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/924b3e47c1369ee5067c532b028b41df.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/928a31c9fea1d90e6e759c63d564b463.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/928ce47ae46212ec02eedf97f361901a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/935a91522418545becc80450a77f4f6f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/955c536744e8b355db170f6f3325094a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/96965d575b85210a31c6dae710c1c5c3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/96ee143d45c691282f575d1cee08ad66.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/971304d59a25292112d396cb778c3de1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/97cc86e825a1fc5f929a5fc6e0e0d846.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/98e9827c09200a59ff6b69d83618a502.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/999adb6969c90ebe794c309620bca2f1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/99de09813e167693b780cd81f06df85e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/99e550ab5074f0e747fe81533f2ef67e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/9ad7b87e8936ab53ec2771319a82cf09.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/9b83cbcaa2deb09f94418fe04d87b008.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/9ccde32c51080d7f9c75dda3d8aa2732.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/9d4c0960a858eb46fe58960be7d8e300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/9dba224928f90524497f96b29ec46b59.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/9e470219045261f8394b1bdb41b21597.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/9e923c6d72cd46c75c6013c771db1896.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/9f68b51b24fc1c1e0541afdecd631d85.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/9fa223f81e3c4732101896cc6ec22bda.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/a2b817f555591bdde02e029663674535.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/a2d5184455481b72f432ee09fa7864c3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/a49f7382b475c2d6df23a130f823f9ef.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/a4d9cf2bdcfa68407f131338a989a0a4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/a570bc126e769449471f3adbe6e990fd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/a5ccda117b65d676f7dbfc840e58e1b9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/a6f29dea1077828df4a9b9a749b74286.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/a76d8bf0641acb8786f625921bb2b8c5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/a8ad591c878cfe10b8555002b3370047.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/ab26e7f7d775cd083d4e7ed61b769396.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/ab7a8f502fadf7fdad2448b30ac10c00.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/ac8ac9d15963507895cce30819ad31de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/acb05b7f06bd7e529f3074deaaefdf9a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/ad23d482312e836ba4862cd0a6e2aceb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/ad34494d77ebb3dfcd7a9cecfa509320.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/adc874f7cca2f15fb7ed86851e4c853f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/ae9ece76637905986a3db56c46d91c6e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/b01ad57c3acb48d08d16a46fc301e52b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/b0682bb7d64589e00d97f047b1a6d142.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/b1d8075fe2bdf2cf7d070bfaf59b4778.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/b2d86425ac2686350f677bf0f6d5f768.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/b2def12e51ce3a28b6afa9757b608050.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/b4409ce50950dc9ad2b4ff4757f6b11e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/b46dcfee863ae521f95737f277a6fac9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/b4bb47f07f7d2b4f4ebcfe81c6bb9d9c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/b4bfd686b94aa59fd98550efc2684a70.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/b501e75a65d91407eb337ec576fba314.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/b600a1773e6b61537aa4a20045c5cbb6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/b624ec82af12ee4eb3a4200a929ec54e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/b694eb6f1d0b4a0949f7c339f7235720.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/b91d8a513313f901010c814b741c6f42.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/b9fcfac1b2a7620d15e722076c1f60aa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/baa9561c50b6f4293eaa2fa1a07c86ce.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/baad26413086003ca8077563372b2b07.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/bc0a2c5b0e8d05c0ea3a88f93e12c15b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/bc75088af9fdd2aa7af91009fd68d62d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/bc77e900270a16e5d3616c40defd7aac.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/bca95523fef4a0aa657f7dcfb1a8e9ad.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/bd564b724801991de10ed88bf169bce9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/bdbde7c61ee6d26b49923ad20502bc90.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/bdf4afdb92e0942cef988474f52a5542.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/be4820a426f1b27a6c394de3d060a4cd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/befbc042b463fa3fd37e4a8ed4fa59d5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/bf6b56ca58f65503fe974a9a67abc6cd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/bfa431e3452b7b4982c4fa11eb05291d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/bfb02fb942d4d6b4dee5988344fd7fbc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/c0a2b0262530b8a160731b85592d0fbe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/c12b3f157f7ce14a8a3718162c89d008.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/c26844c59fd54ddd84164c4a9d39cc79.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/c38babc42eff4654250a62b5747a5406.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/c3bf7c5ad1c053c6fcf3f77abef99d5c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/c4a7a333f989cb6f80faf611713b3c5f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/c565547df0d1d633828fde8fbc376951.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/c6131b30c24eac4c7f98c8a4bd61ed4f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/c6ad82c49247d24f02a951bcd76d581c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/c6ae0f8bf5b1dfaacdb3aea1c790d011.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/c6b9f18d5309811e792773e59920b776.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/c6c0c53db5c6be4c70e8d8a6b5dd99c9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/c7488f5178463148f8246ca35c72e910.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/c8135d9d6de58ec08d36acdb9a3a9694.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/c83e50d4850e5f5b326db3abc6f6ef13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/c8d3ac4001683216fb30d370de6ea034.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/c978188fa8f669d602e1373f844eaf48.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/c9cf276e6553fa46ce37545e8651a3d1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/ca904f134cdfe6f381b401e0216537c9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/cb822082f0066dfde709684f075d1b82.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/ccbf0b059832b8550e438f59c0ba902d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/cccb535c8655e6470a9d9c7b73496cf6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/ce116d542c564b079d4ab1f7001697ec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/ce5d959a2e0293a382e3bf509636120e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/ce73d947bd69dcbac79742208c9d2a3c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/cf58d3a8c3c38a84de1f699cc6741624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/cf8f475d400c4aaf608aa816c0a9bf53.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/cfcf5e4fe6d15ae0a80e13b4a293cdf1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/d010833976e49dad80049e849c83ec57.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/d11dbdd0803dd451368b3c44d2bb2f88.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/d142625b178804f9db84b75a9e30a914.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/d2242842f72c38b7707d183b8700d6a8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/d235a9cb3f996e59da956ab0c8d36f8a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/d459e2642cd704dd4b5f9e94ef60954a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/d5e70ec4a353b3dbce454ecd5530f539.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/d6593f3fd5aaa3ca769560e9607f90d1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/d669b9363dd55784cdff193985bf66e6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/d6eda7dab2fd8d46756e63875c8aaa44.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/d7a5468ca2ff6fd42fa88aece4b4348d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/d7c952297546e036eb7268fae18566a2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/d8b7e5a58a2e40ff348cc76a32a370c6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/d995719e8e11aaf6199bb1eeaf8a134d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/dac26a26d2042e940741b0ddd01a924a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/db3668753b246730b9edb8f6b899ec7e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/db8265f8ec4df637a5dce67447219761.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/dbb241722ca17b51aa91ca03b92d0911.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/dcde2a5fa1c8627f52781ff83f38b6c2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/def4f5bf2af2a7a65d0b033dbf4f8e70.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/df192990e36cc748c1704191b24971d2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/df4debcc9150c7dd6d1d824e64fd1de4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/e010574e54780cbfb54b2afe98358c76.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/e0ad317c67a4ff52b12720fff81f41d7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/e0b4c6e948647011cd4738017c6ce751.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/e188c1a306aed3e4b81abeb832e9c577.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/e24179f32bf700eba27bb892c3debb49.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/e3981fb7c6e12ab58e4be874fb1e0250.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/e3a60808bfd39c3e3ecd33b6c3950ecb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/e3c1288064ab62ed29ebb33861178820.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/e417c16d3883dac5fe33d78ca75819f7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/e48ec424fc309b6e4423e9e7f35fb926.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/e4d300bd707d00bbbda523584dc1afdb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/e534e87423ef69fc161bcd55aef6f230.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/e5fe8ab3dace8aa2773704def09ba735.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/e65e47be33cb70a013813801808b7472.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/e6967161546d1c0c1e88cb0e00fc4abe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/e7f22be50400915be477c3da99bac054.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/e8cc335a70b7df84ba8ebc6012848c48.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/ea96029b93ec7218ae47e0e79733c87b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/eb86eb083538f4d4e21be4d20d1a0c0a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/ec25e131447c1142a400749d6911ac50.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/ecdcb4bfb2ca2a071c61449d6b1b0e62.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/ed5a482a3c8cbead57ca490ca4a2ed70.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/edee0be11d973752ce3a47a057f0e72b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/ee2ec68fe23d3eb2a6b91abd59ab96c2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/ef609cb34cb0c83b32957ceeec7e1338.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/efaad2209393672b089a8d0bceaa3003.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/f15698694da9f1aedc5b283a103511ac.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/f228b865d676863d1407c448ca7e1f64.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/f2ee4964b75bec44c450fbca0a1b7753.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/f331d567dc522bcccb474cfc89f31eaf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/f33b705572843723213a602ad8f06487.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/f3a6578701319ee135e20bb8812e41da.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/f48d46262aa58bf92a8520378d9d60aa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/f4c4025bf0de568b001defb879bf6d21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/f51ec7dbf563b719eea85ceb6606c3f4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/f6f8483565532d2a130459c9c55febca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/f6fddc2257234c0a1004f3bec7272a34.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/f7220b74151b44c704caaf758a3991e4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/f9b92c7290ddaa8f12bdbc8cd7903227.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/f9d8ba8be807f62a7b6752ec255b8427.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/fa9cf7b342d940a1fc8dcf107d4d8392.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/facd7f88067a406bfa1efe599eecfd37.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/web/cache/development/babel-loader/facf20dbb86fac71fbdd2cb9afc23d9f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/User.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.expo/packager-info.json" beforeDir="false" afterPath="$PROJECT_DIR$/.expo/packager-info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Users/Register.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Users/Register.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/auth/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/db/auth/auth.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/KhaledBranch" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/App.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pages/Home.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/node_modules/react/cjs/react.development.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28xe4p06INeTKWu24m9jDGPiMha" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mahmo/OneDrive/Desktop/CS303-Project/CS-303 Project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.1\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mahmo\OneDrive\Desktop\CS303-Project\CS-303 Project\db" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdbc556d-8c5b-4f34-8a7f-6da4dc4eb4a7" name="Changes" comment="" />
+      <created>1652162475152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652162475152</updated>
+      <workItem from="1652162476884" duration="11654000" />
+      <workItem from="1652192740434" duration="22946000" />
+      <workItem from="1652353982676" duration="17780000" />
+      <workItem from="1652450908262" duration="3359000" />
+      <workItem from="1652457116478" duration="217000" />
+      <workItem from="1652458757260" duration="312000" />
+      <workItem from="1652459254587" duration="675000" />
+      <workItem from="1652461852458" duration="907000" />
+    </task>
+    <task id="LOCAL-00001" summary="&quot;fixed import in Login.jsx&quot;">
+      <created>1652357021340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652357021340</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="&quot;fixed import in Login.jsx&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;fixed import in Login.jsx&quot;" />
+  </component>
+</project>
