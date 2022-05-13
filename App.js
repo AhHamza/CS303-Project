@@ -105,7 +105,7 @@ function BottomTab({ user }) {
                 headerTitleStyle: { fontWeight: "bold", fontSize: 30, paddingLeft: 50 },
                 tabBarLabel: 'Home',
                 tabBarIcon: () => (
-                    <MaterialCommunityIcons name="home" color={'color'} size={30} />
+                    <MaterialCommunityIcons name="home" color={'#000000'} size={30} />
                 ),
             }} />
 
@@ -116,7 +116,7 @@ function BottomTab({ user }) {
                 headerTintColor: '#fff',
                 tabBarLabel: 'Profile',
                 tabBarIcon: () => (
-                    <MaterialCommunityIcons name="account" color={'color'} size={30} />
+                    <MaterialCommunityIcons name="account" color={'#000000'} size={30} />
                 ),
             }
             }>

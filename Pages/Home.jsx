@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
   container: {
     textAlign: 'center',
     alignItems: 'center',
-    backgroundColor: "#FFF",
+    backgroundColor: "#e7e9ea",
     width: "100%",
     height: "100%",
   },
@@ -60,21 +60,12 @@ const styles = StyleSheet.create({
     fontSize: 20,
     fontWeight: "bold",
     margin: 20,
-    color: '#bdc1c6'
+    color: 'rgb(255, 255, 255)'
 
   },
   cardsContainer: {
     justifyContent: 'space-between',
     padding: 20
-  },
-  footballStyle: {
-
-  },
-  tennisStyle: {
-
-  },
-  basketballStyle: {
-
   },
 
   ImageStyle: {
@@ -87,7 +78,7 @@ const styles = StyleSheet.create({
     paddingBottom: 10,
     fontSize: 20,
     fontWeight: 'bold',
-    color: '#bdc1c6'
+    color: 'rgb(255, 255, 255)'
 
   }
 

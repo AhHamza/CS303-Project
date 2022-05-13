@@ -1,10 +1,16 @@
-import { StyleSheet, Text, View, Image, TouchableOpacity, ScrollView } from 'react-native'
+import { Linking ,StyleSheet, Text, View, Image, TouchableOpacity, ScrollView } from 'react-native'
 import React, { useState } from 'react'
 
 import Logo from '../assets/OIP.jpg'
 
 export default function Stadium({ navigation }) {
 
+  const URL = 'https://goo.gl/maps/6tXHQw6a5Yrg3A3K7'  
+  const locationURL =(url) =>{
+    Linking.openURL(url)
+                        .then()
+                        .catch((err) => console.error('An error occurred', err))
+  }
   return (
     <ScrollView>
       <View style={styles.container}>
@@ -13,25 +19,20 @@ export default function Stadium({ navigation }) {
         </View>
 
         <View style={styles.shapestyle}>
-          <TouchableOpacity style={styles.buttonstyle} onPress={() => { alert("Perfecto") }}>
+          <TouchableOpacity style={styles.buttonstyle} onPress={() => {alert(locationURL(URL))}}>
             <Text style={styles.buttontext}>Location</Text>
           </TouchableOpacity>
         </View>
 
         <Text style={styles.text}>Services</Text>
-
         <View style={styles.Services}>
         </View>
 
-        <Text style={styles.text}>Booking dates</Text>
-
-        <View style={styles.Services}>
+        <Text style={styles.text}>Price</Text>
+        <View style={styles.pricebox}>
+          <Text style={styles.input}>50 L.E/hour</Text>
         </View>
 
-        <Text style={styles.text}>Description</Text>
-
-        <View style={styles.Services}>
-        </View>
         <View style={styles.shapestyle}>
           <TouchableOpacity style={styles.buttonstyle} onPress={() => { navigation.navigate('Payment') }}>
             <Text style={styles.buttontext}>Book</Text>
@@ -60,7 +61,7 @@ const styles = StyleSheet.create({
   },
   text: {
     fontSize: 18,
-    paddingTop: 50
+    paddingBottom: 10
   },
   Services: {
     maxWidth: '100%',
@@ -76,17 +77,26 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   buttontext: {
-    color: 'white',
+    color: 'rgb(255, 255, 255)',
     fontWeight: '700',
     fontSize: 16,
   },
   shapestyle: {
     alignItems: 'center',
-    justifyContent: 'center'
+    justifyContent: 'center',
+    paddingTop : 20
   },
   input: {
     fontSize: 30,
-    color: '#FFF',
-
+    color: 'rgb(255, 255, 255)',
+  },
+  pricebox: {
+    backgroundColor: '#3c8d0d',
+    width: '100%',
+    height: 50,
+    borderRadius: 10,
+    textAlign: 'center',
+    alignItems: 'center',
+    justifyContent: 'center',
   }
 })

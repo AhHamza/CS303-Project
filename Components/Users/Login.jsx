@@ -87,7 +87,7 @@ const styles = StyleSheet.create({
   },
   textinput: {
     height: 40,
-    color: "#fff",
+    color: 'rgb(255, 255, 255)',
     borderBottomColor: "#cae9ff",
     borderBottomWidth: 4,
 
@@ -105,15 +105,15 @@ const styles = StyleSheet.create({
     width: '100%',
     padding: 15,
     borderRadius: 10,
-    alignItems: 'center',
+    alignItems: 'center'
   },
   buttontext: {
-    color: 'white',
+    color: 'rgb(255, 255, 255)',
     fontWeight: '700',
     fontSize: 16,
   },
   errorText: {
-    color: '#f00'
+    color: 'rgb(255, 255, 255)'
   },
 
 
