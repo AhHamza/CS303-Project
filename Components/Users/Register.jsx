@@ -1,7 +1,9 @@
 import { TouchableOpacity, KeyboardAvoidingView, StyleSheet, Text, View, TextInput, Image } from "react-native";
 import { React, useState } from "react";
-import { register } from "../../db/auth/auth";
+import { register,getUserUId,login } from "../../db/Auth";
 import Logo from '../../assets/2511582.jpg'
+import {addUser} from "../../db/User";
+
 
 const Register = ({ navigation }) => {
   const [displayName, setdisplayName] = useState("");
@@ -12,7 +14,14 @@ const Register = ({ navigation }) => {
   const handleRegister = () => {
     console.log(displayName, email, password);
     register(email, password)
-      .then()
+      .then(()=>{
+        login(email, password).then(
+            () => {
+              console.log('login completed');
+              getUserUId().then((id) => addUser({id: id, email, password}));
+            }
+        )
+      })
       .catch((e) => setError(e.message));
   }
 
