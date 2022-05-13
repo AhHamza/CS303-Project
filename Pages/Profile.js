@@ -1,6 +1,6 @@
 import { TouchableOpacity, StyleSheet, Text, View } from 'react-native'
 import React from 'react'
-import { signout } from '../db/auth/auth'
+import { signout } from '../db/Auth'
 
 
 

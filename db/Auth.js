@@ -1,4 +1,4 @@
-import { app,auth } from "./Config";
+import { auth,app } from "./Config";
 import {
   onAuthStateChanged,
   signInWithEmailAndPassword,
@@ -8,7 +8,6 @@ import {
   signInWithCredential,
   FacebookAuthProvider, getAuth,
 } from "firebase/auth";
-import {addUser} from "./User";
 
 const authentication = getAuth(app);
 
@@ -52,8 +51,8 @@ async function login(email, password) {
 
 }
 
-async function logout() {
+async function signout() {
   authentication.signOut().then().catch((e) => console.log(e.message));
 }
 
-export { register, login,logout,isSignedIn,getUserUId,getUserToken };
+export { register, login,signout,isSignedIn,getUserUId,getUserToken };
